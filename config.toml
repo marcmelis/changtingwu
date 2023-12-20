@@ -1,0 +1,14 @@
+# Site title
+title = "Changting Wu"
+base_url = "https://changtingwu.com"
+description = "Changting Wu personal page"
+compile_sass = true
+theme = "andromeda"
+[extra]
+header_links = [
+    {name = "Instagram", url = "https://www.instagram.com/changtingwu"},
+]
+#license = "CC BY-NC 2.0"
+#email = "changtingwu@gmail.com"
+name = "Changting Wu"
+# favicon = "/images/favicon.ico"
